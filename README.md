@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coding-Vaasi
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning HTML , CSS & JAVASCRIPT
+- 🌱 I’m currently learned HTML , CSS & JAVASCRIPT and learning Python.
 - 💞️ I’m looking to collaborate on unique projects to solve unique problems 
 - 📫 You can reach me with help of Email: G4GAMING2024@gmail.com and Instagram: Hismoperaryan
 - 😄 Pronouns: Welcome to my awesome project! In this repository, I aim to provide a comprehensive guide .
