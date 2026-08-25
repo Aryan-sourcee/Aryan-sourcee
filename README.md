@@ -15,7 +15,7 @@
 
 ### 🚀 What I'm Building — Kritix AI
 
-I'm the Founder & Director of **Kritix AI**, a human-centered AI company (under **Dulet Technologies**) building a unified AI intelligence layer — one that adapts to *you*, instead of making you adapt to a pile of fragmented tools.
+I'm the Founder & Director of **Kritix AI**, a human-centered AI company building a unified AI intelligence layer — one that adapts to *you*, instead of making you adapt to a pile of fragmented tools.
 
 - 🎙️ **KVIE (Kritix Voice Intelligence Engine)** — our flagship product, a voice-driven AI agent → [Kritix-AI/KVIE](https://github.com/Kritix-AI/KVIE)
 - 🖥️ A planned **desktop AI assistant**
